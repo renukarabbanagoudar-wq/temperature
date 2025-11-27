@@ -9,7 +9,7 @@ expect ValueError:
     print("Please enter a valid temperature!")
     sys.exist(1)
 if temp <15:
-  print("Clod")
+  print("Cold")
 elif 15<=temp<=30:
    print("Normal")
 else:
